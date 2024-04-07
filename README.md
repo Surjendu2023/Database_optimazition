@@ -22,14 +22,43 @@
 # STEP 3 : Identify the Platform to store the data flow
            We can store this data into any cloud services(AWS,GCP,Azure) or any Relational Databases.
            In My case,I will be using Oracle SQL Server to store the data flow
-           
-           
-           
+
+# STEP 4 : Extract,Transform,Load(ETL) into Datawarehouse          
 
 
-           
 
-           
-           
-          
-                    
+# STEP 5 : Query Execution Plan (Avioding Full Table Scan)
+
+
+
+# STEP 6 : Normalization on Tables
+
+
+
+# STEP 7 : Creating Tables by compress method
+
+
+
+
+# STEP 8: Use Appropriate Data Type
+
+
+
+# STEP 9 : Partition on Ticket dates
+
+
+
+# STEP 10 : Indexing on Require Columns to Retrive the data 10x Faster
+
+
+
+
+# STEP 11 : Avoiding unnecessary Sub Queries,Distinct,Joins
+
+
+# STEP 12 : Creating Views
+
+
+# STEP 13 : Creating Store Procedures
+
+
