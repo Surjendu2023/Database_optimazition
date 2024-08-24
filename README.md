@@ -1,4 +1,4 @@
-# ETL_with_database_optimazition
+# database_optimazition
 
 ## Brifing about the project:
    As a Lead data analyst at Airtel,My main goal is to analysis the data.With the user base of 280M+ it's become nightmare to handle or store this amount of data. 
